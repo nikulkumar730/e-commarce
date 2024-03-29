@@ -47,7 +47,7 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    background-image: linear-gradient(to top ,rgba(0,0,0,0.95),rgba(0,0,0,0)),url("../new/Image/icons/divine-mahadev.png");
+    background-image: linear-gradient(to top ,rgba(0,0,0,0.95),rgba(0,0,0,0)),url("../Image/icons/divine-mahadev.png");
     position:absolute;
 
   }
